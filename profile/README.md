@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, we are the Simoorg Development Group! 👋
+
+We are currently working on uMetrr, a public utilities metering, management, and billing platform.
 
 <!--
 
